@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm YOGA</h1>
-<h3 align="center">A passionate Back end developer from Bali, Indonesia</h3>
+<h3 align="center">A passionate Web end developer from Bali, Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogasatwika&label=Profile%20views&color=0e75b6&style=flat" alt="yogasatwika" /> </p>
 
