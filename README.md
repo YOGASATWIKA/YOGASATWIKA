@@ -12,9 +12,9 @@
 - 🌍 Based in Bali, Indonesia  
 - ✉️ Reach me at satwikayoga3@gmail.com  
 - 💼 Connect with me on </n>
-  Whatsapp   : [082349165358](https://wa.me/082349165358) </n>
-  Instagram  : [@sat_wika3](https://instagram.com/sat_wika3) </n>
-  Linkedin   : [@Yoga Satwika](https://www.linkedin.com/in/yoga-satwika-606848288/) </n>
+  Whatsapp   : [082349165358](https://wa.me/082349165358) <br>
+  Instagram  : [@sat_wika3](https://instagram.com/sat_wika3) <br>
+  Linkedin   : [@Yoga Satwika](https://www.linkedin.com/in/yoga-satwika-606848288/) <br>
 
 ---
 
