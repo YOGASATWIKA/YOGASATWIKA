@@ -5,11 +5,9 @@
 
 ---
 
-🚀 About Me
+### 🚀 About Me
 
-- 🌟 Working on a **Knowledge Management System** using RAG, GraphQL, and Vector Databases for my thesis  
-- 💡 Exploring **backend technologies** like Golang, Java, and Spring  
-- 🎯 Open to collaborating on backend projects and system design  
+
 
 ---
 
@@ -22,9 +20,6 @@
 - **Frameworks**:  
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
 
-- **Tools**:  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-  ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)  
 
 ---
 
