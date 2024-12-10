@@ -1,36 +1,46 @@
-# Hi there! 👋 I'm [Your Name]
-
-🎓 Undergraduate student at ITB STIKOM Bali  
-💻 Passionate about backend development and scalable systems  
+<h1 align="center">Hi there! 👋 I'm YOGA SATWIKA</h1>
+<p align="center">
+🎓 Undergraduate Student | 💻 Backend Developer | 🌟 Tech Enthusiast
+</p>
 
 ---
 
 ### 🚀 About Me
 
-
+🧑‍💻 **Undergraduate student** at ITB STIKOM Bali, focusing on backend development and AI-integrated systems.  
 
 ---
 
 ### 🛠 Tech Stack
 
-- **Languages**:  
-  ![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-
-- **Frameworks**:  
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
-
+<div align="center">
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=default)  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="GitHub Streak" width="49%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages" width="50%" />
+</div>
 
 ---
 
 ### 🌐 Connect with Me
 
-- Email: your.email@example.com  
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
+<div align="center">
+  <a href="mailto:satwikayoga3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/YOGASATWIKA">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
