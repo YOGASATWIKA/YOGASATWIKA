@@ -21,7 +21,11 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
----
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yogasatwika&show_icons=true&theme=radical" alt="Yoga's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogasatwika&theme=radical" alt="GitHub Streak" />
+</div>
 
 ### 🌐 Connect with Me
 
