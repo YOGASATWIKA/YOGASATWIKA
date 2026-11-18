@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Architecture+Enthusiast;AI-Integrated+Systems+Builder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Software+Engineer;Linux+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 
 🧑‍💻 **Software Engineer** specializing in scalable backend architectures and AI-integrated systems.  
 🎓 Computer Science graduate from **ITB STIKOM Bali**.  
-⚡ Passionate about building high-performance microservices, clean APIs, and integrating intelligent workflows into production systems.
+⚡ Passionate about building clean APIs.
 
 ---
 
@@ -58,6 +58,9 @@
 ### 🌐 Connect with Me
 
 <div align="center">
+  <a href="https://mr-agoy.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
+  </a>
   <a href="mailto:satwikayoga3@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
