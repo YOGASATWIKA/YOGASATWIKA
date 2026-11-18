@@ -1,13 +1,13 @@
 <h1 align="center">Hi there! 👋 I'm YOGA SATWIKA</h1>
 <p align="center">
-🎓 Undergraduate Student | 💻 Backend Developer | 🌟 Tech Enthusiast
+  💻 Software Engineer
 </p>
 
 ---
 
 ### 🚀 About Me
 
-🧑‍💻 **Undergraduate student** at ITB STIKOM Bali, focusing on backend development and AI-integrated systems.  
+🧑‍💻 **Software Engineer** specializing in scalable backend architectures and AI-integrated systems.
 
 ---
 
