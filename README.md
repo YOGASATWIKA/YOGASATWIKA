@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-🧑‍💻 **Software Engineer** specializing in scalable backend architectures and AI-integrated systems.  
+🧑‍💻 **Software Engineer**
 🎓 Computer Science graduate from **ITB STIKOM Bali**.  
 ⚡ Passionate about building clean APIs.
 
